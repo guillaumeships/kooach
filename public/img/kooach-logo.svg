@@ -1,0 +1,35 @@
+<svg width="680" height="520" viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- VARIANTE 1 : LOGO HORIZONTAL (navbar) -->
+  <!-- Icône carrée -->
+  <rect x="40" y="44" width="72" height="72" rx="18" fill="#2D6A4F"/>
+  <path d="M76 62 L76 98 M62 72 L76 80 L62 88" stroke="#FAFAF7" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="88" cy="64" r="5" fill="#FAFAF7"/>
+  <!-- Wordmark -->
+  <text x="128" y="84" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-style="italic" font-weight="400" fill="#1a1a1a">Kooach</text>
+  <text x="129" y="104" font-family="system-ui, sans-serif" font-size="11" fill="#888888" letter-spacing="0.12em">GÉNÉRATION DE CONTENU IA</text>
+
+  <!-- VARIANTE 2 : FOND VERT (Instagram, OG image) -->
+  <rect x="40" y="182" width="360" height="100" rx="12" fill="#2D6A4F"/>
+  <rect x="62" y="209" width="46" height="46" rx="11" fill="rgba(250,250,247,0.15)"/>
+  <path d="M85 221 L85 247 M77 228 L85 234 L77 240" stroke="#FAFAF7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="93" cy="223" r="3.5" fill="#FAFAF7"/>
+  <text x="122" y="238" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#FAFAF7">Kooach</text>
+  <text x="123" y="256" font-family="system-ui, sans-serif" font-size="10" fill="rgba(250,250,247,0.65)" letter-spacing="0.1em">GÉNÉRATION DE CONTENU IA</text>
+
+  <!-- VARIANTE 3A : ICÔNE CARRÉE (favicon, app icon) -->
+  <rect x="40" y="348" width="80" height="80" rx="20" fill="#2D6A4F"/>
+  <path d="M80 366 L80 410 M66 376 L80 385 L66 394" stroke="#FAFAF7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="93" cy="368" r="6" fill="#FAFAF7"/>
+
+  <!-- VARIANTE 3B : ICÔNE CERCLE (Instagram profil) -->
+  <circle cx="180" cy="388" r="40" fill="#2D6A4F"/>
+  <path d="M180 366 L180 410 M166 376 L180 385 L166 394" stroke="#FAFAF7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="193" cy="368" r="6" fill="#FAFAF7"/>
+
+  <!-- VARIANTE 3C : FAVICON 32px -->
+  <rect x="240" y="356" width="64" height="64" rx="14" fill="#2D6A4F"/>
+  <path d="M272 369 L272 407 M262 377 L272 383 L262 389" stroke="#FAFAF7" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="282" cy="370" r="5" fill="#FAFAF7"/>
+
+</svg>

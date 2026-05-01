@@ -1,0 +1,33 @@
+{
+  "name": "Kooach — Contenu IA pour coachs sportifs",
+  "short_name": "Kooach",
+  "description": "Génère 7 contenus Instagram calibrés pour coachs sportifs FR en 60 secondes.",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF7",
+  "theme_color": "#2D6A4F",
+  "lang": "fr",
+  "dir": "ltr",
+  "categories": ["productivity", "business", "lifestyle"],
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

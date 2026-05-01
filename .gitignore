@@ -1,0 +1,25 @@
+.vercel
+node_modules
+.next
+.env*.local
+.env.local
+tsconfig.tsbuildinfo
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Sentry
+.sentryclirc
+
+# Marketing assets (prospects, leads, emails) — ne JAMAIS commit
+# (RGPD : on stocke des emails persos, fichier reste local)
+marketing/
+
+# Brief stratégique perso (CONTEXT, SETUP, MAC_STARTER, prospects.csv, etc.)
+# Données founder + prospects + strat — JAMAIS push public
+brief/
+
+# Claude Code / IDE settings locaux
+.claude/
